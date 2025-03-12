@@ -5,7 +5,7 @@ from datetime import datetime
 from PIL import Image
 
 # ====== 核心配置 ======
-save_folder = r"E:\DOCUMENTS\Pictures\Turtle Graphics"  # 直接使用原始字符串路径
+save_folder = r"E:\DOCUMENTS\Pictures\Turtle Graphics"  # 需改为实际保存路径
 
 file_prefix = "art_"  # 文件名前缀
 for i in range(10):
